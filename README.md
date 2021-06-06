@@ -17,13 +17,13 @@
 <h2 align="center">Stats</h2>
 
 <p align="center">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=D7y1&show_icons=true&theme=algolia">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=g7755&show_icons=true&theme=algolia">
 </p>
 
 <h2 align="center">Top Languages</h2>
 
 <p align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D7y1&theme=algolia">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g7755&theme=algolia">
 </p>
 
 <h2 align="center">Spotify</h2>
@@ -36,7 +36,7 @@
 
 <p align="center">
   <img alt="Discord" src="https://brandslogos.com/wp-content/uploads/thumbs/discord-logo-vector.svg" width="200" height="200">
-  <p align="center">D7y#0511</p>
+  <p align="center">ibra7#7777</p>
 </p>
 
 
