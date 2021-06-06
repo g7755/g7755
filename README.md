@@ -28,7 +28,7 @@
 <h2 align="center">Spotify</h2>
 
 <p align="center">
-  <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=d7mmy101">
+  <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=g775">
 </p>
 
 <h2 align="center">Discord</h2>
